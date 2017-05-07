@@ -24,6 +24,10 @@ gem 'coffee-rails', '~> 4.2'
 gem 'devise', '~> 4.2'
 #active admin
 gem 'activeadmin'
+#tema par active admin
+gem 'active_skin'
+#para adjuntar archivos
+gem 'paperclip', '~> 4.3', '>= 4.3.6'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
